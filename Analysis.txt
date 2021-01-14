@@ -1,0 +1,5 @@
+Py City Schools Analysis:
+
+One strong trend in the Py City School District was that charter schools outperformed district schools by a wide margin. It's not clear why this is the case, although it may be  because charter schools tend to be smaller, which also correlated with high performance. Charter schools are also known for expelling struggling students and sending them back to district schools, so it's important to note that the students were not randomly assigned to the variables in this dataset. 
+
+It was notable that schools with higher budget ranges also had lower scores in both reading and math, contrary to what one might expect. The root cause of this may be that small/charter schools had lower budgets per student, and also had higher performance. For a further analysis, I would want to include information on what special programs were offered at each school - for example a special ed program costs more money per student but reflect poorly in test scores, and chart schools may be attempting to minimize them and shift the cost to district schools. It's also possible, of course, that smaller schools allow students to get more personal attention.
